@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /list/http
-Disallow: /list/http:
-Disallow: /list/http:/
-Disallow: /list/https
-Disallow: /list/https:
-Disallow: /list/https:/
